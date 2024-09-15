@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q9rxi#f*w!x+6#10gat*p2so!ydlwtw5sz0smm5te9eb1!sgao
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "http://dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id", "https://dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id", "dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = ["http://localhost", "http://127.0.0.1", "http://dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id", "https://dionysius-davis-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
